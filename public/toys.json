@@ -1,0 +1,70 @@
+[
+    {
+      "seller_name":"Ibrahim Hasan",
+      "seller_email": "ibrahimhasan7140@gmail.com",
+        "picture_url": "https://media.istockphoto.com/id/1291206703/photo/plastic-model-of-an-old-red-bus-toy-miniature-isolated-on-white.jpg?s=1024x1024&w=is&k=20&c=dFXHdbSNyGt_94NBpHCaF4thwVvlEGd55wNT44NAirk=",
+        "name": "Toy Bus",
+        "sub_category": "bus",
+        "price": 14.99,
+        "rating": 4.2,
+        "available_quantity": 5,
+        "description": "The Toy Bus is a delightful toy for kids who love vehicles. It is beautifully designed with vibrant colors and realistic details. The bus has movable doors and windows, allowing children to role-play as bus drivers or passengers. Made from high-quality and child-safe materials, this toy provides hours of imaginative play. Let your child embark on exciting journeys with the Toy Bus!"
+      },
+      {
+        "seller_name":"Ibrahim Hasan",
+      "seller_email": "ibrahimhasan7140@gmail.com",
+        "picture_url":  "https://media.istockphoto.com/id/173755751/photo/red-18-wheeler.jpg?s=1024x1024&w=is&k=20&c=ECav8VseXOtBhlvT_Tmut87-ot7kwPVWe7gsatZ4tWA=",
+        "name": "Toy Truck",
+        "sub_category": "truck",
+        "price": 24.99,
+        "rating": 4.8,
+        "available_quantity": 8,
+        "description": "The Toy Truck is a robust and sturdy toy that is perfect for little ones who are fascinated by trucks. It features a realistic design with moving parts, including a tilting bed and working wheels. Children can engage in imaginative construction play or transport small items using this toy truck. It's made from durable materials and is built to withstand rough play. Fuel your child's creativity with the Toy Truck!"
+      },
+      {
+        "seller_name":"Ibrahim Hasan",
+      "seller_email": "ibrahimhasan7140@gmail.com",
+        "picture_url":"https://images.unsplash.com/photo-1594787318286-3d835c1d207f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Toy Car",
+        "sub_category": "car",
+        "price": 19.99,
+        "rating": 4.5,
+        "available_quantity": 10,
+        "description": "The Toy Car is a fun and interactive toy for kids who love cars. It features vibrant colors and a durable design. Your child will love playing with this toy car, pretending to race it around the house or in their own imaginary racetrack. The car has smooth wheels that allow it to move easily on various surfaces. It's made from non-toxic materials and is safe for children of all ages. Let your child's imagination soar with this exciting toy car!"
+      },
+      {
+        "seller_name":"Ibrahim Hasan",
+      "seller_email": "ibrahimhasan7140@gmail.com",
+        "picture_url": "https://media.istockphoto.com/id/139558636/photo/antique-london-double-decker-bus-tin-toy.jpg?s=1024x1024&w=is&k=20&c=S80Jd2DkfDhtCne7OJb1XQNuatTm8jST5Twuqtzc8X4=",
+        "name": "Toy Bus 2",
+        "sub_category": "bus",
+        "price": 12.99,
+        "rating": 4.0,
+        "available_quantity": 3,
+        "description": "The Toy Bus 2 is a fantastic toy for kids who enjoy playing with buses. It features a realistic design with vibrant colors and movable parts. Children can open the doors, move the wheels, and even make bus noises. Made from high-quality materials, this toy is safe and durable. Let your child's imagination drive with the Toy Bus 2!"
+      },
+      {
+        "seller_name":"Ibrahim Hasan",
+      "seller_email": "ibrahimhasan7140@gmail.com",
+        "picture_url": "https://media.istockphoto.com/id/620006890/photo/toy-car-truck.jpg?s=1024x1024&w=is&k=20&c=LiMJ1lJhtafl1gsfF9kgHu-0i_pKQ7cpu74EQH2eE_0=",
+        "name": "Toy Truck 2",
+        "sub_category": "truck",
+        "price": 29.99,
+        "rating": 4.6,
+        "available_quantity": 7,
+        "description": "The Toy Truck 2 is a versatile toy that will captivate any truck enthusiast. With its realistic design and functioning parts, children can load and unload cargo using the movable bed and transport items with ease. This truck is made from durable materials and is built to withstand rough play. Watch as your child's imagination expands with the Toy Truck 2!"
+      },
+      {
+        "seller_name":"Ibrahim Hasan",
+      "seller_email": "ibrahimhasan7140@gmail.com",
+        "picture_url": "https://images.unsplash.com/photo-1572635196184-84e35138cf62?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+        "name": "Toy Car 2",
+        "sub_category": "car",
+        "price": 16.99,
+        "rating": 4.3,
+        "available_quantity": 6,
+        "description": "The Toy Car 2 is an exciting toy that will ignite your child's passion for cars. It features a sleek design and smooth wheels for fast and fun play. Let your child zoom around the room, creating their own adventures and imaginary races. This toy car is made from high-quality materials and is designed to provide endless hours of entertainment. Watch as your child's racing dreams come to life with the Toy Car 2!"
+      }
+      
+      
+]
